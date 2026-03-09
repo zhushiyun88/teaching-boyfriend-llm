@@ -350,7 +350,7 @@
 
 如果你觉得这个项目对你有帮助，请给个 Star ⭐️ 支持一下！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zhushiyun88/teaching-boyfriend-llm&type=Date)](https://star-history.com/#zhushiyun88/teaching-boyfriend-llm&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=juliye2025/teaching-boyfriend-llm&type=Date)](https://star-history.com/#juliye2025/teaching-boyfriend-llm&Date)
 
 ---
 
